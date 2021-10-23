@@ -10,4 +10,5 @@ int main()
         cin>>x>>y>>a>>b;
         cout<<(a/x)+(b/y)<<endl;
     }
+    return 0;
 }
